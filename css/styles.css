@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Silkscreen:wght@400;700&display=swap');
+
+header {
+    text-align: center;
+    background-color: #201e3b;
+    color: white;
+}
+
+header h1 {
+    font-family: "Silkscreen", sans-serif;
+    margin: 0 auto;
+    padding: 0.7em 0;
+}
+
+.navbar {
+    background-color: #332c77;
+}
+
+nav .navbar-nav li a {
+    font-family: "Silkscreen", sans-serif;
+    color: white;
+}
+
+nav .navbar-nav li a:hover {
+    color: #8c8fda;
+}
+
+nav .navbar-nav li a:active {
+    color: #4333a1;
+}
+
+.nav-item {
+    padding: 0.1em 0.5em;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+
+    padding: 2em 0;
+}
+
+.title {
+    font-family: "Silkscreen", sans-serif;
+    text-align: center;
+}
